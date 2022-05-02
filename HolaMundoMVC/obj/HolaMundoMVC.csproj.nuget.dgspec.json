@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.NET Core\\ASP.NET-Core\\HolaMundoMVC\\HolaMundoMVC.csproj": {}
+    "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\HolaMundoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.NET Core\\ASP.NET-Core\\HolaMundoMVC\\HolaMundoMVC.csproj": {
+    "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\HolaMundoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.NET Core\\ASP.NET-Core\\HolaMundoMVC\\HolaMundoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\HolaMundoMVC.csproj",
         "projectName": "HolaMundoMVC",
-        "projectPath": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.NET Core\\ASP.NET-Core\\HolaMundoMVC\\HolaMundoMVC.csproj",
+        "projectPath": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\HolaMundoMVC.csproj",
         "packagesPath": "C:\\Users\\Mauricio PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.NET Core\\ASP.NET-Core\\HolaMundoMVC\\obj\\",
+        "outputPath": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mauricio PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

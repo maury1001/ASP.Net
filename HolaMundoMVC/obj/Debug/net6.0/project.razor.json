@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\Views\\Shared\\Prueba.cshtml",
+      "TargetPath": "Views\\Shared\\Prueba.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
