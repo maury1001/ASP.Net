@@ -2,7 +2,7 @@
 
 @{
     ViewData["Title"] = "Información Escuela";
-    Layout = "Prueba";
+    Layout = "_Layout";
 }
 
 <div class="text-center">
@@ -10,6 +10,12 @@
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">construyendo una aplicación web usando ASP.NET Core</a>.</p>
 </div>
 
-<h1>Escuela: @Model.EscuelaID</h1>
+<h1>Escuela: @Model.UniqueId</h1>
 <h2>Nombre: @Model.Nombre</h2>
-<span>Año Fundacion: @Model.AñoFundacion </span>
+<h3>Tipo de Escuela: @Model.TipoEscuela</h3>
+<address>
+    <p>Dirección: @Model.Direccion</p>
+    <p>Ciudad: @Model.Ciudad</p>
+    <p>Pais: @Model.Pais</p>
+</address>
+<span>Año Fundacion: @Model.AñoDeCreacion </span>

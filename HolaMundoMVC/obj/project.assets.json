@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\HolaMundoMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\HolaMundoMVC.csproj",
       "projectName": "HolaMundoMVC",
-      "projectPath": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\HolaMundoMVC.csproj",
+      "projectPath": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\HolaMundoMVC.csproj",
       "packagesPath": "C:\\Users\\Mauricio PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP.Net\\ASP.Net\\HolaMundoMVC\\obj\\",
+      "outputPath": "C:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mauricio PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

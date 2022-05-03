@@ -50,3 +50,29 @@ C:\Users\Mauricio PC\Desktop\Development\.Net\ASP.Net\ASP.Net\HolaMundoMVC\obj\D
 C:\Users\Mauricio PC\Desktop\Development\.Net\ASP.Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.pdb
 C:\Users\Mauricio PC\Desktop\Development\.Net\ASP.Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.genruntimeconfig.cache
 C:\Users\Mauricio PC\Desktop\Development\.Net\ASP.Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\ref\HolaMundoMVC.dll
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.csproj.AssemblyReference.cache
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.AssemblyInfoInputs.cache
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.AssemblyInfo.cs
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.RazorAssemblyInfo.cache
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.RazorAssemblyInfo.cs
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.dll
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\refint\HolaMundoMVC.dll
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.pdb
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\bin\Debug\net6.0\HolaMundoMVC.staticwebassets.runtime.json
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\bin\Debug\net6.0\HolaMundoMVC.exe
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\bin\Debug\net6.0\HolaMundoMVC.deps.json
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\bin\Debug\net6.0\HolaMundoMVC.runtimeconfig.json
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\bin\Debug\net6.0\HolaMundoMVC.dll
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\bin\Debug\net6.0\HolaMundoMVC.pdb
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\scopedcss\bundle\HolaMundoMVC.styles.css
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\scopedcss\projectbundle\HolaMundoMVC.bundle.scp.css
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\HolaMundoMVC.genruntimeconfig.cache
+C:\Users\Mauricio PC\Desktop\Development\.Net\ASP .Net\ASP.Net\HolaMundoMVC\obj\Debug\net6.0\ref\HolaMundoMVC.dll
