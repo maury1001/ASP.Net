@@ -1,0 +1,25 @@
+@model List<Alumno>
+
+@{
+    ViewData["Title"] = "Información Alumno";
+    Layout = "_Layout";
+}
+
+
+<h1>ViewData["Title"]</h1>
+
+<strong>Desde la vista normal</strong>
+
+@foreach (var alumno in Model)
+{
+    <partial name= "ObjetoEscuelaSimple" model="alumno"/>
+}
+
+<strong>Desde la vista parcial</strong>
+
+
+
+
+
+
+

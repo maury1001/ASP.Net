@@ -16318,6 +16318,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\Views\\Alumno\\Index.cshtml",
+      "TargetPath": "Views\\Alumno\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -16325,6 +16330,16 @@
     {
       "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\Views\\Asignatura\\Index.cshtml",
       "TargetPath": "Views\\Asignatura\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\Views\\Alumno\\MultiAlumno.cshtml",
+      "TargetPath": "Views\\Alumno\\MultiAlumno.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\Views\\Shared\\ObjetoEscuelaSimple.cshtml",
+      "TargetPath": "Views\\Shared\\ObjetoEscuelaSimple.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16340,6 +16355,11 @@
     {
       "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\Views\\Asignatura\\MultiAsignatura.cshtml",
+      "TargetPath": "Views\\Asignatura\\MultiAsignatura.cshtml",
       "FileKind": "mvc"
     }
   ],
