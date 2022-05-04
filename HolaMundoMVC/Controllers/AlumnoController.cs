@@ -14,17 +14,23 @@ public class AlumnoController: Controller
 
     public IActionResult MultiAlumno()
     {
-        var listaAlumnos = new List<Alumno>()
-        {
-            new Alumno{Nombre="Mauricio",UniqueId = Guid.NewGuid().ToString()},
-            new Alumno{Nombre="Sonia",UniqueId = Guid.NewGuid().ToString()},
-            new Alumno{Nombre="Cinthia",UniqueId = Guid.NewGuid().ToString()},
-            new Alumno{Nombre="Sergio",UniqueId = Guid.NewGuid().ToString()}
-        };
-
-
+        var listaAlumnos = GenerarAlumnos();
 
         return View("MultiAlumno",listaAlumnos);
     }
+
+
+    private List<Alumno> GenerarAlumnos()
+        {
+            string[] primerNombre = {"Adrian","Sonia","Sebastian"};
+            string[] segundoNombre = {"Mauricio","Beatriz","Nicolas"};
+            string[] apellido = {"Allaman","Bagnoud","Rober"};
+
+            var listaAlumnos = from n1 in primerNombre
+                               from n2 in segundoNombre
+                               from a1 in apellido
+                               select new Alumno{Nombre = $"{n1} {n2} {a1}"};
+            return listaAlumnos.OrderBy((al)=>al.UniqueId).ToList();
+        }
 
 }
