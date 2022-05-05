@@ -29,7 +29,8 @@ public class AlumnoController: Controller
             var listaAlumnos = from n1 in primerNombre
                                from n2 in segundoNombre
                                from a1 in apellido
-                               select new Alumno{Nombre = $"{n1} {n2} {a1}"};
+                               select new Alumno{Nombre = $"{n1} {n2} {a1}",
+                                                 UniqueId = Guid.NewGuid().ToString()};
             return listaAlumnos.OrderBy((al)=>al.UniqueId).ToList();
         }
 

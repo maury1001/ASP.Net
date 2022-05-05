@@ -16353,6 +16353,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\Views\\Shared\\ListaObjetosEscuela.cshtml",
+      "TargetPath": "Views\\Shared\\ListaObjetosEscuela.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Mauricio PC\\Desktop\\Development\\.Net\\ASP .Net\\ASP.Net\\HolaMundoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
