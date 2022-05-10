@@ -9,7 +9,7 @@ public class AlumnoController: Controller
     public IActionResult Index()
     {
         
-        return View(new Alumno{Nombre="Mauricio",UniqueId = Guid.NewGuid().ToString()});
+        return View(new Alumno{Nombre="Mauricio",ID = Guid.NewGuid().ToString()});
     }
 
     public IActionResult MultiAlumno()
@@ -30,8 +30,8 @@ public class AlumnoController: Controller
                                from n2 in segundoNombre
                                from a1 in apellido
                                select new Alumno{Nombre = $"{n1} {n2} {a1}",
-                                                 UniqueId = Guid.NewGuid().ToString()};
-            return listaAlumnos.OrderBy((al)=>al.UniqueId).ToList();
+                                                 ID = Guid.NewGuid().ToString()};
+            return listaAlumnos.OrderBy((al)=>al.ID).ToList();
         }
 
 }

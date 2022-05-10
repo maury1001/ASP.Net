@@ -1,21 +1,24 @@
 using HolaMundoMVC.Models;
 using Microsoft.AspNetCore.Mvc;
 
+
 namespace HolaMundoMVC.Controllers;
 
 public class EscuelaController: Controller
 {
+    private EscuelaContext _context;
     public IActionResult Index()
     {
-        var escuela = new Escuela();
-        escuela.AñoDeCreacion = 2005;
-        escuela.UniqueId = Guid.NewGuid().ToString();
-        escuela.Nombre = "UNTDF";
-        escuela.Direccion = "Av. Siempre viva";
-        escuela.Ciudad = "Ushuaia";
-        escuela.Pais = "Argentina";
-        escuela.TipoEscuela = TiposEscuela.Secundaria;
+    
+        var escuela = _context.Escuelas.FirstOrDefault();
+
         return View(escuela);
     }
+
+    public EscuelaController(EscuelaContext context)
+    {
+        _context = context;
+    }
+
 
 }
